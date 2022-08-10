@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\JSONInventoryManagement\JSONInventoryManagement\obj\Debug\net6.0\JSONInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\JSONInventoryManagement\JSONInventoryManagement\obj\Debug\net6.0\JSONInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\JSONInventoryManagement\JSONInventoryManagement\obj\Debug\net6.0\JSONInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\JSONInventoryManagement\JSONInventoryManagement\obj\Debug\net6.0\JSONInventoryManagement.AssemblyInfo.cs
+C:\Users\mani1\source\repos\JSONInventoryManagement\JSONInventoryManagement\obj\Debug\net6.0\JSONInventoryManagement.csproj.CoreCompileInputs.cache

@@ -1,4 +1,5 @@
-﻿namespace JSONInventoryManagement
+﻿namespace JSONInventoryManagement;
+    
 {
     class Program
     {

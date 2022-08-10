@@ -1,4 +1,4 @@
-﻿namespace InventoryManagement
+﻿namespace StockAccountManagement
 {
     class Program
     {
